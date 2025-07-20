@@ -7,5 +7,4 @@ class Entities:
     """
     Class holding the entities of the application.
     """
-    geocode_service: services.GeocodeService
-    identity_service: services.IdentityService
+    pass

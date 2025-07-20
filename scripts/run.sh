@@ -1,2 +1,2 @@
 export PYTHONPATH=./
-python cmd/server.py
+python cmd/run.py
