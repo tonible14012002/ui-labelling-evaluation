@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "55f2df3f-ab98-4de0-8b39-dbcc4192cb40",
+    "id": "585e0b1c-bdf3-4363-9615-0e48891070b3",
     "name": "Screenshot_2025-07-19_044.png",
     "path": "images/Screenshot_2025-07-19_044.png",
     "width": 1920,
@@ -8,56 +8,56 @@
   },
   "annotations": [
     {
-      "id": "llm-76e86308-5ce8-4858-9773-b73a559f7a7c",
-      "label": "Checkbox",
-      "value": "checkbox",
+      "id": "llm-eb61ea10-5beb-4a60-a7c8-b7bf23f6a6d8",
+      "label": "Input",
+      "value": "input",
       "bbox": {
-        "x": 1250,
-        "y": 98,
-        "width": 386,
-        "height": 164
+        "x": 909,
+        "y": 448,
+        "width": 176,
+        "height": 58
       },
       "author": "llm",
       "score": 0.87
     },
     {
-      "id": "llm-846ea7cf-d8f8-488e-a1d4-af81d56c0500",
+      "id": "llm-74ef9c50-e947-420e-9383-28a175e0ab85",
       "label": "Input",
       "value": "input",
       "bbox": {
-        "x": 229,
-        "y": 35,
-        "width": 132,
-        "height": 211
-      },
-      "author": "llm",
-      "score": 0.92
-    },
-    {
-      "id": "llm-0f318ff5-58b2-4ef2-837a-f693b58b6893",
-      "label": "Dropdown",
-      "value": "dropdown",
-      "bbox": {
-        "x": 1710,
-        "y": 37,
-        "width": 292,
-        "height": 287
+        "x": 1761,
+        "y": 65,
+        "width": 424,
+        "height": 237
       },
       "author": "llm",
       "score": 0.94
     },
     {
-      "id": "llm-d0912920-8014-491f-af17-43d908c0d5e0",
-      "label": "Radio",
-      "value": "radio",
+      "id": "llm-b0afc10d-bca0-4795-8432-b063d450709a",
+      "label": "Button",
+      "value": "button",
       "bbox": {
-        "x": 185,
-        "y": 334,
-        "width": 247,
-        "height": 236
+        "x": 1001,
+        "y": 298,
+        "width": 338,
+        "height": 53
       },
       "author": "llm",
-      "score": 0.91
+      "score": 0.65
+    },
+    {
+      "id": "llm-2a1cdde3-876a-4d38-b114-1a4a2d680725",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 621,
+        "y": 889,
+        "width": 266,
+        "height": 132
+      },
+      "author": "llm",
+      "score": 0.63
     }
   ]
 }

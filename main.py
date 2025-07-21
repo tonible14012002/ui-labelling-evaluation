@@ -27,7 +27,7 @@ def main(dataset_dir: str = "./dataset", output_file: str = "evaluation_results.
             "pred": 0,
             "tp": 0 
         },
-        "checkbox": {
+        "radio": {
             "gt": 0,
             "pred": 0,
             "tp": 0

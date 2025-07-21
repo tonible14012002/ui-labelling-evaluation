@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "fa95371b-772e-49f9-af82-01628e900d78",
+    "id": "46d55540-60d9-441a-b711-946827628b9b",
     "name": "Screenshot_2025-07-19_070.png",
     "path": "images/Screenshot_2025-07-19_070.png",
     "width": 1920,
@@ -8,17 +8,43 @@
   },
   "annotations": [
     {
-      "id": "llm-6dc946ce-40b1-4db7-82a5-c9013cac631c",
-      "label": "Input",
-      "value": "input",
+      "id": "llm-645ee52d-dad5-43d4-b269-078b9aa5260f",
+      "label": "Radio",
+      "value": "radio",
       "bbox": {
-        "x": 129,
-        "y": 654,
-        "width": 138,
-        "height": 71
+        "x": 1082,
+        "y": 0,
+        "width": 178,
+        "height": 52
       },
       "author": "llm",
-      "score": 0.92
+      "score": 0.74
+    },
+    {
+      "id": "llm-7c1da6be-3129-426b-8f08-ae7c982070b0",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 290,
+        "y": 205,
+        "width": 500,
+        "height": 158
+      },
+      "author": "llm",
+      "score": 0.75
+    },
+    {
+      "id": "llm-71a9c04e-ecef-4cbf-b9bc-33738371ff39",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 884,
+        "y": 1,
+        "width": 193,
+        "height": 285
+      },
+      "author": "llm",
+      "score": 0.87
     }
   ]
 }

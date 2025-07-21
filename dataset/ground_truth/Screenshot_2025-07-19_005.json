@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "79fd69aa-3b69-4600-8846-0998baec6482",
+    "id": "c01e83d6-c37f-4370-83f4-f57ccca54d92",
     "name": "Screenshot_2025-07-19_005.png",
     "path": "images/Screenshot_2025-07-19_005.png",
     "width": 1920,
@@ -8,40 +8,27 @@
   },
   "annotations": [
     {
-      "id": "manual-353736ed-5268-42e1-9162-eb6eaa0a9e5e",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 589,
-        "y": 492,
-        "width": 403,
-        "height": 266
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-88a33692-3433-4722-beba-491467f9b504",
+      "id": "manual-dc4d817c-4d2f-4e2a-abed-ecad10c269df",
       "label": "Dropdown",
       "value": "dropdown",
       "bbox": {
-        "x": 1604,
-        "y": 736,
-        "width": 457,
-        "height": 129
+        "x": 314,
+        "y": 191,
+        "width": 178,
+        "height": 260
       },
       "author": "manual",
       "score": 1.0
     },
     {
-      "id": "manual-08896237-8ad7-4bd0-b092-bbe666984c7d",
-      "label": "Checkbox",
-      "value": "checkbox",
+      "id": "manual-3c5b82f7-4b7b-4b8f-981f-c25a90535a56",
+      "label": "Input",
+      "value": "input",
       "bbox": {
-        "x": 1227,
-        "y": 733,
-        "width": 383,
-        "height": 36
+        "x": 1055,
+        "y": 90,
+        "width": 276,
+        "height": 242
       },
       "author": "manual",
       "score": 1.0

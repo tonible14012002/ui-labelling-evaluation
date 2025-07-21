@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "05f09ad1-981c-4976-8faf-54497df114f6",
+    "id": "1bd0520b-48a0-41d4-9481-761270bd378a",
     "name": "Screenshot_2025-07-19_083.png",
     "path": "images/Screenshot_2025-07-19_083.png",
     "width": 1920,
@@ -8,53 +8,53 @@
   },
   "annotations": [
     {
-      "id": "llm-acf1faf3-2678-4e84-9f34-3c0b36cbcc39",
+      "id": "llm-eb608426-0303-4ab8-8069-78422f23749d",
       "label": "Radio",
       "value": "radio",
       "bbox": {
-        "x": 255,
-        "y": 826,
-        "width": 386,
-        "height": 111
+        "x": 400,
+        "y": 388,
+        "width": 54,
+        "height": 34
       },
       "author": "llm",
-      "score": 0.85
+      "score": 0.93
     },
     {
-      "id": "llm-1fcc9de2-d525-4340-acaa-ab9c1ac80b35",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 289,
-        "y": 152,
-        "width": 156,
-        "height": 82
-      },
-      "author": "llm",
-      "score": 0.95
-    },
-    {
-      "id": "llm-ad8178e0-e21b-45cf-985b-8bc8a14ae62a",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 807,
-        "y": 97,
-        "width": 158,
-        "height": 77
-      },
-      "author": "llm",
-      "score": 0.99
-    },
-    {
-      "id": "llm-0e2ee2ed-46cf-4b1c-8184-9706dc0916d6",
+      "id": "llm-b7ada302-e9f0-42d8-b607-e0123dad6b02",
       "label": "Radio",
       "value": "radio",
       "bbox": {
-        "x": 631,
-        "y": 766,
-        "width": 189,
-        "height": 183
+        "x": 887,
+        "y": 79,
+        "width": 315,
+        "height": 262
+      },
+      "author": "llm",
+      "score": 0.74
+    },
+    {
+      "id": "llm-f1183089-09da-4005-9f51-126900ab9045",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 1420,
+        "y": 633,
+        "width": 157,
+        "height": 260
+      },
+      "author": "llm",
+      "score": 0.8
+    },
+    {
+      "id": "llm-d024ffc0-12f1-4e28-aadf-40740204a087",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 859,
+        "y": 547,
+        "width": 349,
+        "height": 253
       },
       "author": "llm",
       "score": 0.99

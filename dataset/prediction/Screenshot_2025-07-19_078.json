@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "c5164f57-d614-46fb-a307-bb93043774bb",
+    "id": "6a5e6c73-64b7-482b-bd64-0ab6417ba369",
     "name": "Screenshot_2025-07-19_078.png",
     "path": "images/Screenshot_2025-07-19_078.png",
     "width": 1920,
@@ -8,17 +8,30 @@
   },
   "annotations": [
     {
-      "id": "llm-c7c70cf7-10d5-44a4-8457-13c7a1149d24",
-      "label": "Input",
-      "value": "input",
+      "id": "llm-c97e9c74-a091-4c7c-9ac3-13aee48c8747",
+      "label": "Button",
+      "value": "button",
       "bbox": {
-        "x": 1196,
-        "y": 964,
-        "width": 403,
-        "height": 52
+        "x": 1535,
+        "y": 298,
+        "width": 337,
+        "height": 170
       },
       "author": "llm",
-      "score": 0.92
+      "score": 0.86
+    },
+    {
+      "id": "llm-e7ef33d0-7cb6-42eb-963f-c2a025dfbfbe",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 632,
+        "y": 423,
+        "width": 329,
+        "height": 264
+      },
+      "author": "llm",
+      "score": 0.91
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "bb30c697-32f7-4ae0-af23-1a6dbe1daf57",
+    "id": "99a09020-806e-4dc6-aba1-2f4a63b7cd54",
     "name": "Screenshot_2025-07-19_079.png",
     "path": "images/Screenshot_2025-07-19_079.png",
     "width": 1920,
@@ -8,56 +8,56 @@
   },
   "annotations": [
     {
-      "id": "llm-9c393622-b201-4951-9e53-aa19f5d9539a",
-      "label": "Button",
-      "value": "button",
-      "bbox": {
-        "x": 851,
-        "y": 192,
-        "width": 454,
-        "height": 90
-      },
-      "author": "llm",
-      "score": 0.92
-    },
-    {
-      "id": "llm-72024bc4-732b-4818-921a-b7fea8b9c0c7",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 56,
-        "y": 336,
-        "width": 497,
-        "height": 40
-      },
-      "author": "llm",
-      "score": 0.91
-    },
-    {
-      "id": "llm-3306daf8-2625-424e-9b80-22f7549fcdb2",
+      "id": "llm-f2028377-f11d-47f3-a07a-aea519e10b0e",
       "label": "Dropdown",
       "value": "dropdown",
       "bbox": {
-        "x": 873,
-        "y": 7,
-        "width": 320,
-        "height": 295
+        "x": 1149,
+        "y": 615,
+        "width": 132,
+        "height": 15
+      },
+      "author": "llm",
+      "score": 0.61
+    },
+    {
+      "id": "llm-7012ca06-7637-4313-b9a9-85dd97175cf8",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 309,
+        "y": 899,
+        "width": 176,
+        "height": 68
+      },
+      "author": "llm",
+      "score": 0.86
+    },
+    {
+      "id": "llm-2610c70e-bb1c-4b5e-8cfd-bb8890ba5bfb",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 423,
+        "y": 610,
+        "width": 394,
+        "height": 77
+      },
+      "author": "llm",
+      "score": 0.68
+    },
+    {
+      "id": "llm-c39c318b-f598-4883-b664-cea7531750e2",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 446,
+        "y": 830,
+        "width": 109,
+        "height": 226
       },
       "author": "llm",
       "score": 0.9
-    },
-    {
-      "id": "llm-5a609059-a17a-4406-af5e-4d7d4f1a162e",
-      "label": "Input",
-      "value": "input",
-      "bbox": {
-        "x": 1080,
-        "y": 485,
-        "width": 74,
-        "height": 168
-      },
-      "author": "llm",
-      "score": 0.85
     }
   ]
 }

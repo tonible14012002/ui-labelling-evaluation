@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "4e23c078-b4cb-4be5-9558-a1d101e7f3c3",
+    "id": "3e20cf83-d953-430a-b757-98d2c65b4f35",
     "name": "Screenshot_2025-07-19_097.png",
     "path": "images/Screenshot_2025-07-19_097.png",
     "width": 1920,
@@ -8,53 +8,53 @@
   },
   "annotations": [
     {
-      "id": "manual-e3b2e2b0-f0b7-46df-ae94-af1a8d61b11c",
-      "label": "Dropdown",
-      "value": "dropdown",
+      "id": "manual-c7df1743-891b-4a41-9a8e-a07aaed34cd0",
+      "label": "Input",
+      "value": "input",
       "bbox": {
-        "x": 269,
-        "y": 186,
-        "width": 438,
-        "height": 121
+        "x": 1129,
+        "y": 149,
+        "width": 417,
+        "height": 34
       },
       "author": "manual",
       "score": 1.0
     },
     {
-      "id": "manual-6256704a-45fd-4a9d-aad6-e997b6484d1f",
+      "id": "manual-0557c688-c97b-4438-ac95-f2210a82158f",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 1101,
+        "y": 429,
+        "width": 289,
+        "height": 54
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-55cc0d60-5d51-41c8-9e55-b070bd05051c",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 1152,
+        "y": 993,
+        "width": 406,
+        "height": 218
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-fdecd738-034d-4a84-ba02-f84581426383",
       "label": "Radio",
       "value": "radio",
       "bbox": {
-        "x": 850,
-        "y": 16,
-        "width": 385,
-        "height": 230
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-999aa915-92e4-4020-b578-4254a0fdebec",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 1349,
-        "y": 434,
-        "width": 484,
-        "height": 152
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-11c217dd-1ff7-4307-9001-75eacb670937",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 1323,
-        "y": 460,
-        "width": 492,
-        "height": 74
+        "x": 1688,
+        "y": 555,
+        "width": 102,
+        "height": 232
       },
       "author": "manual",
       "score": 1.0

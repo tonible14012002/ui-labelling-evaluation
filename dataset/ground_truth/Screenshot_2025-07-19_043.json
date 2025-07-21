@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "f09ef1fb-1f01-4a9c-87c1-abbdb6fe6e03",
+    "id": "786f8e1b-6e3d-4c95-9aa6-fc4e46c7fef4",
     "name": "Screenshot_2025-07-19_043.png",
     "path": "images/Screenshot_2025-07-19_043.png",
     "width": 1920,
@@ -8,27 +8,40 @@
   },
   "annotations": [
     {
-      "id": "manual-aadd2604-870b-4941-a03e-a2b34ddbf6d5",
+      "id": "manual-c79ac42b-680a-4d31-b126-d7f075235892",
       "label": "Button",
       "value": "button",
       "bbox": {
-        "x": 1512,
-        "y": 761,
-        "width": 175,
-        "height": 158
+        "x": 1204,
+        "y": 222,
+        "width": 265,
+        "height": 172
       },
       "author": "manual",
       "score": 1.0
     },
     {
-      "id": "manual-f7bd0396-2f63-4fde-9ffe-1d04795a7144",
-      "label": "Checkbox",
-      "value": "checkbox",
+      "id": "manual-0ac0f955-0aaf-42f2-8b1a-d98c64199d99",
+      "label": "Button",
+      "value": "button",
       "bbox": {
-        "x": 160,
-        "y": 800,
-        "width": 441,
-        "height": 93
+        "x": 449,
+        "y": 109,
+        "width": 52,
+        "height": 134
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-069770cb-19cd-46cd-ad3a-9d626db927e1",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 1793,
+        "y": 372,
+        "width": 228,
+        "height": 149
       },
       "author": "manual",
       "score": 1.0

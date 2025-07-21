@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "b2dc3944-0e76-4a8b-96d4-040a93340694",
+    "id": "cc3a76f5-fd75-4143-beed-3f4e4fb742ab",
     "name": "Screenshot_2025-07-19_021.png",
     "path": "images/Screenshot_2025-07-19_021.png",
     "width": 1920,
@@ -8,56 +8,43 @@
   },
   "annotations": [
     {
-      "id": "llm-503308ad-1183-42e4-bb4d-b8447c140a5a",
+      "id": "llm-e8c10b68-4c56-4544-9a21-8e7ac33a3c20",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 1490,
+        "y": 949,
+        "width": 259,
+        "height": 166
+      },
+      "author": "llm",
+      "score": 0.97
+    },
+    {
+      "id": "llm-56c99a9d-c3a9-441a-b3ec-81a88d726733",
       "label": "Button",
       "value": "button",
       "bbox": {
-        "x": 138,
-        "y": 700,
-        "width": 165,
-        "height": 289
+        "x": 1310,
+        "y": 848,
+        "width": 398,
+        "height": 59
       },
       "author": "llm",
-      "score": 0.95
+      "score": 0.78
     },
     {
-      "id": "llm-a5abb475-0388-4fd1-a550-755009ddf1e3",
-      "label": "Checkbox",
-      "value": "checkbox",
+      "id": "llm-19974141-ce4b-407a-8a49-91ff8696fab8",
+      "label": "Dropdown",
+      "value": "dropdown",
       "bbox": {
-        "x": 1763,
-        "y": 508,
-        "width": 493,
-        "height": 219
-      },
-      "author": "llm",
-      "score": 0.96
-    },
-    {
-      "id": "llm-fc400798-8e92-44bf-8fd4-52cf4e539b21",
-      "label": "Button",
-      "value": "button",
-      "bbox": {
-        "x": 465,
-        "y": 32,
-        "width": 437,
+        "x": 420,
+        "y": 381,
+        "width": 370,
         "height": 259
       },
       "author": "llm",
-      "score": 0.92
-    },
-    {
-      "id": "llm-c73ba92c-1eff-43bf-88ac-711f12f783f7",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 1190,
-        "y": 967,
-        "width": 224,
-        "height": 252
-      },
-      "author": "llm",
-      "score": 0.87
+      "score": 0.98
     }
   ]
 }

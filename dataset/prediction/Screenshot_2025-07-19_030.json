@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "009769f9-6c05-490b-b384-8a2b24bb9d88",
+    "id": "70ad38db-546f-4ab6-b71b-09325c6f5ba9",
     "name": "Screenshot_2025-07-19_030.png",
     "path": "images/Screenshot_2025-07-19_030.png",
     "width": 1920,
@@ -8,43 +8,56 @@
   },
   "annotations": [
     {
-      "id": "llm-a51644b7-5cd0-4d68-870d-fe94680cebb1",
-      "label": "Checkbox",
-      "value": "checkbox",
+      "id": "llm-2dc58838-761e-4e10-81d8-36ff7a93e5b1",
+      "label": "Button",
+      "value": "button",
       "bbox": {
-        "x": 868,
-        "y": 995,
-        "width": 353,
-        "height": 103
+        "x": 501,
+        "y": 682,
+        "width": 239,
+        "height": 51
       },
       "author": "llm",
-      "score": 0.88
+      "score": 0.98
     },
     {
-      "id": "llm-3e9abd3f-682f-4acb-9992-d92ccb9be910",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 1516,
-        "y": 807,
-        "width": 252,
-        "height": 161
-      },
-      "author": "llm",
-      "score": 0.96
-    },
-    {
-      "id": "llm-9b4a969f-4a7a-470c-b58c-d822d1eb731e",
+      "id": "llm-d7bc1353-6531-4cc2-a10f-178944ecbaa2",
       "label": "Input",
       "value": "input",
       "bbox": {
-        "x": 1275,
-        "y": 882,
-        "width": 496,
-        "height": 198
+        "x": 1537,
+        "y": 731,
+        "width": 466,
+        "height": 149
       },
       "author": "llm",
-      "score": 0.93
+      "score": 0.69
+    },
+    {
+      "id": "llm-bf9b7f7a-7ddb-4c58-89e7-e814214cad5c",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 1123,
+        "y": 926,
+        "width": 473,
+        "height": 277
+      },
+      "author": "llm",
+      "score": 0.64
+    },
+    {
+      "id": "llm-b5cdac93-3ed3-42fa-876d-43acc8c1f068",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 783,
+        "y": 746,
+        "width": 496,
+        "height": 107
+      },
+      "author": "llm",
+      "score": 0.78
     }
   ]
 }

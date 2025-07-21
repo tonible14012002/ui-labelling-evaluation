@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "4e23c078-b4cb-4be5-9558-a1d101e7f3c3",
+    "id": "3e20cf83-d953-430a-b757-98d2c65b4f35",
     "name": "Screenshot_2025-07-19_097.png",
     "path": "images/Screenshot_2025-07-19_097.png",
     "width": 1920,
@@ -8,17 +8,43 @@
   },
   "annotations": [
     {
-      "id": "llm-9a869588-f3e1-4669-a3ea-1c4b521877d6",
-      "label": "Checkbox",
-      "value": "checkbox",
+      "id": "llm-1c0a3c80-8acd-4fd9-9398-1851960a7d06",
+      "label": "Input",
+      "value": "input",
       "bbox": {
-        "x": 141,
-        "y": 276,
-        "width": 331,
-        "height": 241
+        "x": 1146,
+        "y": 142,
+        "width": 420,
+        "height": 46
       },
       "author": "llm",
-      "score": 0.95
+      "score": 0.97
+    },
+    {
+      "id": "llm-79b41a49-6786-4391-b100-9efdadd3ef48",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 1117,
+        "y": 423,
+        "width": 272,
+        "height": 54
+      },
+      "author": "llm",
+      "score": 0.61
+    },
+    {
+      "id": "llm-8b39bcf6-57db-4f25-81a9-90f39762d1a6",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 86,
+        "y": 36,
+        "width": 51,
+        "height": 74
+      },
+      "author": "llm",
+      "score": 0.84
     }
   ]
 }

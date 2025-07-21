@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "d3a734fa-af68-4000-b0e9-9e67188df96b",
+    "id": "2b0d7db4-ea3a-4a30-b956-93555bf628f2",
     "name": "Screenshot_2025-07-19_059.png",
     "path": "images/Screenshot_2025-07-19_059.png",
     "width": 1920,
@@ -8,14 +8,40 @@
   },
   "annotations": [
     {
-      "id": "manual-623619b9-087e-401a-929e-f6bfa5e54f26",
+      "id": "manual-56995229-64cd-43f7-90a6-15c26f125d96",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 1187,
+        "y": 209,
+        "width": 473,
+        "height": 95
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-d9fcb457-e841-420c-aa13-f1fa4a090782",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 60,
+        "y": 329,
+        "width": 498,
+        "height": 33
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-a161ac71-8f52-46fd-93bd-3c33d32d3294",
       "label": "Radio",
       "value": "radio",
       "bbox": {
-        "x": 1271,
-        "y": 774,
-        "width": 278,
-        "height": 69
+        "x": 173,
+        "y": 456,
+        "width": 55,
+        "height": 95
       },
       "author": "manual",
       "score": 1.0

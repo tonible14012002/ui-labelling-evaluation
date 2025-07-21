@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "04d9305c-82ac-4aed-8f92-c5d80522d56e",
+    "id": "36793f67-6a2e-4545-a3de-fc8a5801d0ff",
     "name": "Screenshot_2025-07-19_094.png",
     "path": "images/Screenshot_2025-07-19_094.png",
     "width": 1920,
@@ -8,56 +8,56 @@
   },
   "annotations": [
     {
-      "id": "llm-765f48ce-d8a0-44fa-bea4-dc88e094bde8",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 1697,
-        "y": 887,
-        "width": 136,
-        "height": 205
-      },
-      "author": "llm",
-      "score": 0.93
-    },
-    {
-      "id": "llm-fc3880e8-dd6e-4a82-a82f-9293c2f4d731",
+      "id": "llm-52294da8-6bb6-437c-9cdd-c4b3bce22cb8",
       "label": "Dropdown",
       "value": "dropdown",
       "bbox": {
-        "x": 321,
-        "y": 151,
-        "width": 451,
-        "height": 176
+        "x": 350,
+        "y": 267,
+        "width": 266,
+        "height": 51
       },
       "author": "llm",
-      "score": 0.91
+      "score": 0.6
     },
     {
-      "id": "llm-11844f79-b2c3-49ed-92d6-2ecc25ffa5dd",
-      "label": "Checkbox",
-      "value": "checkbox",
+      "id": "llm-129680fe-077e-4b5a-bd95-168084022513",
+      "label": "Dropdown",
+      "value": "dropdown",
       "bbox": {
-        "x": 373,
-        "y": 415,
-        "width": 119,
-        "height": 193
+        "x": 303,
+        "y": 594,
+        "width": 292,
+        "height": 295
       },
       "author": "llm",
-      "score": 0.97
+      "score": 0.75
     },
     {
-      "id": "llm-18520660-5db5-4163-a5cd-a9f3be618115",
-      "label": "Checkbox",
-      "value": "checkbox",
+      "id": "llm-608dc390-3feb-4cae-9623-16d6e7c13800",
+      "label": "Button",
+      "value": "button",
       "bbox": {
-        "x": 96,
-        "y": 953,
-        "width": 416,
-        "height": 190
+        "x": 431,
+        "y": 169,
+        "width": 75,
+        "height": 286
       },
       "author": "llm",
-      "score": 0.97
+      "score": 0.83
+    },
+    {
+      "id": "llm-4956264b-c48e-48bd-973c-54c2bb7e7daf",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 871,
+        "y": 302,
+        "width": 455,
+        "height": 169
+      },
+      "author": "llm",
+      "score": 0.94
     }
   ]
 }

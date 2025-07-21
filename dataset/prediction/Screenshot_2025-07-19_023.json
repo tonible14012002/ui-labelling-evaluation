@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "f2ee8746-8ae7-48c6-9795-f3da13960d02",
+    "id": "56b40f11-eeba-4a8d-98a5-5e9b0d04a569",
     "name": "Screenshot_2025-07-19_023.png",
     "path": "images/Screenshot_2025-07-19_023.png",
     "width": 1920,
@@ -8,43 +8,56 @@
   },
   "annotations": [
     {
-      "id": "llm-a35cd332-7758-4d6a-9b3e-f1624069d7af",
-      "label": "Dropdown",
-      "value": "dropdown",
-      "bbox": {
-        "x": 1089,
-        "y": 802,
-        "width": 252,
-        "height": 153
-      },
-      "author": "llm",
-      "score": 0.99
-    },
-    {
-      "id": "llm-1b2498a7-6d62-42fd-8973-50eab368cf6a",
-      "label": "Dropdown",
-      "value": "dropdown",
-      "bbox": {
-        "x": 727,
-        "y": 969,
-        "width": 322,
-        "height": 224
-      },
-      "author": "llm",
-      "score": 0.85
-    },
-    {
-      "id": "llm-7841edcc-65aa-408d-9916-b2b90e1f267d",
+      "id": "llm-0d43e101-a882-495b-b00d-2d88bc2b291f",
       "label": "Input",
       "value": "input",
       "bbox": {
-        "x": 1219,
-        "y": 357,
-        "width": 405,
-        "height": 39
+        "x": 395,
+        "y": 886,
+        "width": 465,
+        "height": 234
       },
       "author": "llm",
-      "score": 0.87
+      "score": 0.7
+    },
+    {
+      "id": "llm-1f36f68c-f4ff-4fc9-8c78-f3ec81287dd2",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 45,
+        "y": 605,
+        "width": 337,
+        "height": 289
+      },
+      "author": "llm",
+      "score": 0.71
+    },
+    {
+      "id": "llm-ab202063-1f60-4c3a-a7d8-4c65646fb670",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 208,
+        "y": 22,
+        "width": 144,
+        "height": 144
+      },
+      "author": "llm",
+      "score": 0.88
+    },
+    {
+      "id": "llm-9ad87b81-e27e-4d2f-950d-cd7c95c0fcd0",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 948,
+        "y": 256,
+        "width": 484,
+        "height": 236
+      },
+      "author": "llm",
+      "score": 0.89
     }
   ]
 }

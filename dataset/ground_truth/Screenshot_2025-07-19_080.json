@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "a038205a-3951-4022-be3a-9011de10408e",
+    "id": "a7dbda31-94e1-400e-b605-69d8ee171f2c",
     "name": "Screenshot_2025-07-19_080.png",
     "path": "images/Screenshot_2025-07-19_080.png",
     "width": 1920,
@@ -8,53 +8,40 @@
   },
   "annotations": [
     {
-      "id": "manual-26c4b384-0159-49a2-8857-c162e76f40d9",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 710,
-        "y": 359,
-        "width": 128,
-        "height": 112
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-e62c90a8-04fc-4987-91af-983e1bca1f7b",
-      "label": "Input",
-      "value": "input",
-      "bbox": {
-        "x": 118,
-        "y": 677,
-        "width": 352,
-        "height": 185
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-1fcbf86c-28bf-4a72-a998-a77cea07abf9",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 1156,
-        "y": 872,
-        "width": 164,
-        "height": 271
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-8befc9d0-37b3-4a4e-b944-8a3ce229f0fc",
+      "id": "manual-d3ec5682-d04e-46c4-bdf0-dc26c3e47615",
       "label": "Button",
       "value": "button",
       "bbox": {
-        "x": 1268,
-        "y": 192,
-        "width": 306,
-        "height": 197
+        "x": 375,
+        "y": 736,
+        "width": 231,
+        "height": 76
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-0056c57c-9e5e-4ab2-a073-b44aad75ae08",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 867,
+        "y": 586,
+        "width": 499,
+        "height": 190
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-13960162-2ad4-46cb-a0a4-13c56c862071",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 708,
+        "y": 487,
+        "width": 475,
+        "height": 111
       },
       "author": "manual",
       "score": 1.0

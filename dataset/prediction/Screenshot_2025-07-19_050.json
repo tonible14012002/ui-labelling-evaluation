@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "d7102829-cab3-4da0-845c-d57f97a9aa2f",
+    "id": "5f8cff46-765f-4518-9d2c-a4200d71197a",
     "name": "Screenshot_2025-07-19_050.png",
     "path": "images/Screenshot_2025-07-19_050.png",
     "width": 1920,
@@ -8,43 +8,56 @@
   },
   "annotations": [
     {
-      "id": "llm-058bb1db-b41a-4800-addd-d3742837d98b",
-      "label": "Radio",
-      "value": "radio",
+      "id": "llm-c120140b-adb3-4812-a96d-13e6f7710be9",
+      "label": "Dropdown",
+      "value": "dropdown",
       "bbox": {
-        "x": 154,
-        "y": 600,
-        "width": 365,
-        "height": 89
+        "x": 1002,
+        "y": 326,
+        "width": 109,
+        "height": 122
       },
       "author": "llm",
-      "score": 0.9
+      "score": 0.96
     },
     {
-      "id": "llm-bb7fd230-1840-412d-b5b8-d150c4572294",
-      "label": "Checkbox",
-      "value": "checkbox",
+      "id": "llm-ad2cfafd-cadf-49ab-babb-ad52709f9e2d",
+      "label": "Dropdown",
+      "value": "dropdown",
       "bbox": {
-        "x": 327,
-        "y": 59,
-        "width": 396,
-        "height": 121
+        "x": 109,
+        "y": 479,
+        "width": 422,
+        "height": 274
       },
       "author": "llm",
-      "score": 0.99
+      "score": 0.93
     },
     {
-      "id": "llm-3ac1a122-7dbd-4831-a7d8-b1f4f903d820",
-      "label": "Input",
-      "value": "input",
+      "id": "llm-cf5cc36a-e3b6-4202-b565-1a4c868ed695",
+      "label": "Button",
+      "value": "button",
       "bbox": {
-        "x": 881,
-        "y": 310,
-        "width": 261,
-        "height": 100
+        "x": 995,
+        "y": 356,
+        "width": 255,
+        "height": 60
       },
       "author": "llm",
-      "score": 0.88
+      "score": 0.82
+    },
+    {
+      "id": "llm-9ad24834-9279-4b83-a9ba-3edf635967f0",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 126,
+        "y": 47,
+        "width": 364,
+        "height": 172
+      },
+      "author": "llm",
+      "score": 0.98
     }
   ]
 }

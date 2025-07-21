@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "40bc0bb9-1885-4fd7-a388-71cd8d92bdee",
+    "id": "6e38188b-9f1c-470c-b8ce-6105eb132d42",
     "name": "Screenshot_2025-07-19_038.png",
     "path": "images/Screenshot_2025-07-19_038.png",
     "width": 1920,
@@ -8,53 +8,40 @@
   },
   "annotations": [
     {
-      "id": "manual-0caf7b21-c658-4105-8644-bd9da4067586",
-      "label": "Dropdown",
-      "value": "dropdown",
-      "bbox": {
-        "x": 764,
-        "y": 413,
-        "width": 405,
-        "height": 69
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-8208d8f4-cabe-4f83-8ff4-0e61037f36e2",
-      "label": "Radio",
-      "value": "radio",
-      "bbox": {
-        "x": 1190,
-        "y": 15,
-        "width": 301,
-        "height": 130
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-e570d735-902a-4029-812c-c300d7f23b75",
+      "id": "manual-8acd7e05-9f1b-4596-b754-155601ebed22",
       "label": "Button",
       "value": "button",
       "bbox": {
-        "x": 562,
-        "y": 52,
-        "width": 171,
-        "height": 281
+        "x": 1450,
+        "y": 538,
+        "width": 376,
+        "height": 207
       },
       "author": "manual",
       "score": 1.0
     },
     {
-      "id": "manual-e1035860-5101-49eb-ae71-5d874cbde9e5",
-      "label": "Input",
-      "value": "input",
+      "id": "manual-1f3c5a2d-7f9d-4feb-af7f-4b9b4c28cc75",
+      "label": "Button",
+      "value": "button",
       "bbox": {
-        "x": 714,
-        "y": 760,
-        "width": 467,
-        "height": 124
+        "x": 61,
+        "y": 732,
+        "width": 416,
+        "height": 57
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-3480e7a5-086b-46ec-ab05-1070173abc3f",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 736,
+        "y": 623,
+        "width": 369,
+        "height": 189
       },
       "author": "manual",
       "score": 1.0

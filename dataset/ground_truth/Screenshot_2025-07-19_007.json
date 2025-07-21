@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "2709e43c-6602-45bc-9afa-8c8efcc25669",
+    "id": "4a534157-3d51-4a42-8184-ec2167d31a1f",
     "name": "Screenshot_2025-07-19_007.png",
     "path": "images/Screenshot_2025-07-19_007.png",
     "width": 1920,
@@ -8,53 +8,40 @@
   },
   "annotations": [
     {
-      "id": "manual-c39f17ee-790d-449d-be2c-fe341f93deb3",
+      "id": "manual-0ec18432-3710-4bca-8bbf-ee08dc90f602",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 966,
+        "y": 500,
+        "width": 378,
+        "height": 214
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-000c31fc-dcdf-4f8f-b9c4-dd072852a81e",
       "label": "Dropdown",
       "value": "dropdown",
       "bbox": {
-        "x": 1333,
-        "y": 552,
-        "width": 366,
-        "height": 79
+        "x": 74,
+        "y": 254,
+        "width": 187,
+        "height": 41
       },
       "author": "manual",
       "score": 1.0
     },
     {
-      "id": "manual-c660c864-8c7a-44b0-bfa6-c4c6f478d01d",
-      "label": "Dropdown",
-      "value": "dropdown",
+      "id": "manual-8870c40e-a5ea-49c7-90e7-ce99b98d4612",
+      "label": "Radio",
+      "value": "radio",
       "bbox": {
-        "x": 1482,
-        "y": 611,
-        "width": 223,
-        "height": 143
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-5e02aec6-9446-408c-81ee-de06e7a91370",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 9,
-        "y": 760,
-        "width": 111,
-        "height": 188
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-d72de157-81b3-4394-8831-fade70f3f5fb",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 849,
-        "y": 224,
-        "width": 451,
-        "height": 88
+        "x": 1438,
+        "y": 391,
+        "width": 66,
+        "height": 202
       },
       "author": "manual",
       "score": 1.0

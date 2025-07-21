@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "eb6838bd-1bdc-4d7a-892b-31a9428f588e",
+    "id": "fcce48e6-66b5-4c40-a25d-e986a61be031",
     "name": "Screenshot_2025-07-19_060.png",
     "path": "images/Screenshot_2025-07-19_060.png",
     "width": 1920,
@@ -8,30 +8,56 @@
   },
   "annotations": [
     {
-      "id": "llm-cb043076-07b5-48f7-a86c-8d5a048035ce",
-      "label": "Input",
-      "value": "input",
-      "bbox": {
-        "x": 865,
-        "y": 783,
-        "width": 327,
-        "height": 75
-      },
-      "author": "llm",
-      "score": 0.91
-    },
-    {
-      "id": "llm-b9f1f43d-ee69-403c-97ef-a6115c59e818",
+      "id": "llm-451aa66f-3769-4b86-88d2-a222e6acd4b3",
       "label": "Dropdown",
       "value": "dropdown",
       "bbox": {
-        "x": 304,
-        "y": 581,
-        "width": 326,
-        "height": 183
+        "x": 436,
+        "y": 1002,
+        "width": 160,
+        "height": 76
       },
       "author": "llm",
-      "score": 0.95
+      "score": 0.77
+    },
+    {
+      "id": "llm-b86f7b55-be5f-4d08-9f7a-05737d1fe7de",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 954,
+        "y": 745,
+        "width": 320,
+        "height": 139
+      },
+      "author": "llm",
+      "score": 0.66
+    },
+    {
+      "id": "llm-6fd3aadb-fb2c-4579-aa77-84654bf18b48",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 1516,
+        "y": 967,
+        "width": 99,
+        "height": 49
+      },
+      "author": "llm",
+      "score": 0.76
+    },
+    {
+      "id": "llm-9c28580d-cfb9-48dc-8d64-4a99981b2f15",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 1034,
+        "y": 167,
+        "width": 427,
+        "height": 106
+      },
+      "author": "llm",
+      "score": 0.65
     }
   ]
 }

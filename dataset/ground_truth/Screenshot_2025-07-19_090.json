@@ -1,6 +1,6 @@
 {
   "image": {
-    "id": "268ce8b7-7f82-4e23-83a8-68733e971335",
+    "id": "c913af81-d80f-4ba0-9e30-74c3920bfece",
     "name": "Screenshot_2025-07-19_090.png",
     "path": "images/Screenshot_2025-07-19_090.png",
     "width": 1920,
@@ -8,53 +8,53 @@
   },
   "annotations": [
     {
-      "id": "manual-134b3f53-14f5-4f60-ab26-711f34d3702d",
-      "label": "Radio",
-      "value": "radio",
-      "bbox": {
-        "x": 683,
-        "y": 953,
-        "width": 394,
-        "height": 112
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-11cbe0fc-f03e-40fd-9476-fe414ac08b7d",
+      "id": "manual-d3638099-a942-43b8-938a-a08890677c1c",
       "label": "Button",
       "value": "button",
       "bbox": {
-        "x": 355,
-        "y": 804,
-        "width": 292,
-        "height": 34
+        "x": 868,
+        "y": 430,
+        "width": 154,
+        "height": 179
       },
       "author": "manual",
       "score": 1.0
     },
     {
-      "id": "manual-e7ddb67f-15f5-4d4f-98f0-2923bca60481",
+      "id": "manual-d088ae9c-c00b-4834-9bf4-8cc192514763",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 195,
+        "y": 274,
+        "width": 342,
+        "height": 63
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-3e27a9c7-d112-46a1-b9ef-05e0187d3321",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 245,
+        "y": 288,
+        "width": 179,
+        "height": 281
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-fc3379e2-fb44-4ad1-98b8-6c63dd158921",
       "label": "Dropdown",
       "value": "dropdown",
       "bbox": {
-        "x": 315,
-        "y": 268,
-        "width": 444,
-        "height": 131
-      },
-      "author": "manual",
-      "score": 1.0
-    },
-    {
-      "id": "manual-d551345d-713a-40fd-91cc-b9b3ccf9fab8",
-      "label": "Checkbox",
-      "value": "checkbox",
-      "bbox": {
-        "x": 127,
-        "y": 470,
-        "width": 377,
-        "height": 174
+        "x": 342,
+        "y": 930,
+        "width": 370,
+        "height": 215
       },
       "author": "manual",
       "score": 1.0
