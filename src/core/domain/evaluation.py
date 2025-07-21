@@ -20,9 +20,7 @@ class Image(BaseModel):
     name: str
     type: str
     url: str
-    width: int
-    height: int
-
+    
 class Sample(BaseModel):
     input: Image
     ground_truths: List[Annotation] = []

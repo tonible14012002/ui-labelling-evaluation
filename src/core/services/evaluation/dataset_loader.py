@@ -50,8 +50,6 @@ def load_dataset(dataset_dir: str) -> list[Sample]:
                     name=image_info.get("name", file_name),
                     type=image_info.get("type", ""),
                     url=image_info.get("url", ""),
-                    width=image_info.get("width", 0),
-                    height=image_info.get("height", 0),
                 ),
                 ground_truths=gt_annotations,
                 predictions=pred_annotations,
