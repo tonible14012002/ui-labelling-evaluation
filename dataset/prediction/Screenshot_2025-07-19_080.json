@@ -1,0 +1,24 @@
+{
+  "image": {
+    "id": "a038205a-3951-4022-be3a-9011de10408e",
+    "name": "Screenshot_2025-07-19_080.png",
+    "path": "images/Screenshot_2025-07-19_080.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "llm-f45f64af-85b5-4017-be0a-0f8f02f37ba7",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 1407,
+        "y": 775,
+        "width": 267,
+        "height": 242
+      },
+      "author": "llm",
+      "score": 0.97
+    }
+  ]
+}

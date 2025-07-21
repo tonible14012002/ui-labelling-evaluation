@@ -1,0 +1,24 @@
+{
+  "image": {
+    "id": "cce2a7ae-ac59-48ab-90c8-c4db9f6ae2c8",
+    "name": "Screenshot_2025-07-19_074.png",
+    "path": "images/Screenshot_2025-07-19_074.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "manual-b6c540b2-c14e-4e0b-94c5-24fe75d5905a",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 1010,
+        "y": 68,
+        "width": 282,
+        "height": 65
+      },
+      "author": "manual",
+      "score": 1.0
+    }
+  ]
+}

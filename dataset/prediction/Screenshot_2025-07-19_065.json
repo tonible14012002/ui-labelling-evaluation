@@ -1,0 +1,24 @@
+{
+  "image": {
+    "id": "59cec088-79c9-4a37-80a7-1bc670d1e659",
+    "name": "Screenshot_2025-07-19_065.png",
+    "path": "images/Screenshot_2025-07-19_065.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "llm-f89da61a-2407-4a1c-a4bd-98a619d5f565",
+      "label": "Checkbox",
+      "value": "checkbox",
+      "bbox": {
+        "x": 494,
+        "y": 625,
+        "width": 77,
+        "height": 84
+      },
+      "author": "llm",
+      "score": 0.88
+    }
+  ]
+}

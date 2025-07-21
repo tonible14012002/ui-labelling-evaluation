@@ -1,0 +1,50 @@
+{
+  "image": {
+    "id": "a391e8e3-6b9f-4eb8-8c23-aa4d29790379",
+    "name": "Screenshot_2025-07-19_095.png",
+    "path": "images/Screenshot_2025-07-19_095.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "manual-f9176a23-565f-45e8-ac75-eba6f7087462",
+      "label": "Checkbox",
+      "value": "checkbox",
+      "bbox": {
+        "x": 1280,
+        "y": 838,
+        "width": 312,
+        "height": 40
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-61c44ab1-1c5d-421f-acfe-8b1ee17132fb",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 3,
+        "y": 18,
+        "width": 482,
+        "height": 234
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-f0e7fc2d-1e04-494a-9586-1592534aed71",
+      "label": "Checkbox",
+      "value": "checkbox",
+      "bbox": {
+        "x": 914,
+        "y": 747,
+        "width": 382,
+        "height": 151
+      },
+      "author": "manual",
+      "score": 1.0
+    }
+  ]
+}

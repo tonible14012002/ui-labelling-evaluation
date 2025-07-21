@@ -1,0 +1,24 @@
+{
+  "image": {
+    "id": "448c3619-235e-450b-8a9c-7ac330876092",
+    "name": "Screenshot_2025-07-19_010.png",
+    "path": "images/Screenshot_2025-07-19_010.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "manual-5ff1e4ea-8e7c-483b-a46b-19950777afa3",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 163,
+        "y": 358,
+        "width": 248,
+        "height": 139
+      },
+      "author": "manual",
+      "score": 1.0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": {
+    "id": "4346d758-e498-41c7-83fe-c5e69924702a",
+    "name": "Screenshot_2025-07-19_063.png",
+    "path": "images/Screenshot_2025-07-19_063.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "manual-7e85e373-b207-421f-93c5-b30728fef18d",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 500,
+        "y": 226,
+        "width": 405,
+        "height": 86
+      },
+      "author": "manual",
+      "score": 1.0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": {
+    "id": "fa95371b-772e-49f9-af82-01628e900d78",
+    "name": "Screenshot_2025-07-19_070.png",
+    "path": "images/Screenshot_2025-07-19_070.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "llm-6dc946ce-40b1-4db7-82a5-c9013cac631c",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 129,
+        "y": 654,
+        "width": 138,
+        "height": 71
+      },
+      "author": "llm",
+      "score": 0.92
+    }
+  ]
+}

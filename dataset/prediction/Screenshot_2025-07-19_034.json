@@ -1,0 +1,37 @@
+{
+  "image": {
+    "id": "a4211e0f-74c6-4ed8-b528-0210018f5bbd",
+    "name": "Screenshot_2025-07-19_034.png",
+    "path": "images/Screenshot_2025-07-19_034.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "llm-28f748c9-a8d0-4ade-a66c-6061ef2de00a",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 772,
+        "y": 514,
+        "width": 166,
+        "height": 93
+      },
+      "author": "llm",
+      "score": 0.87
+    },
+    {
+      "id": "llm-b92d0cb6-530d-41f6-a1da-d3e0ed39b1b6",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 677,
+        "y": 958,
+        "width": 384,
+        "height": 233
+      },
+      "author": "llm",
+      "score": 0.91
+    }
+  ]
+}

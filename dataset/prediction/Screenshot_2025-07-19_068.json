@@ -1,0 +1,63 @@
+{
+  "image": {
+    "id": "8a09e210-2486-47a7-a973-c74947ecf902",
+    "name": "Screenshot_2025-07-19_068.png",
+    "path": "images/Screenshot_2025-07-19_068.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "llm-54927b65-7538-4b02-a08a-14b507aa9b5c",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 179,
+        "y": 344,
+        "width": 441,
+        "height": 241
+      },
+      "author": "llm",
+      "score": 0.95
+    },
+    {
+      "id": "llm-768512e0-4647-4576-9c40-5a3e09f88d5c",
+      "label": "Checkbox",
+      "value": "checkbox",
+      "bbox": {
+        "x": 647,
+        "y": 240,
+        "width": 362,
+        "height": 164
+      },
+      "author": "llm",
+      "score": 0.86
+    },
+    {
+      "id": "llm-ee86aeab-6eee-41ae-be34-205e304f3f75",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 113,
+        "y": 593,
+        "width": 378,
+        "height": 216
+      },
+      "author": "llm",
+      "score": 0.96
+    },
+    {
+      "id": "llm-dc5c9a33-b1b2-45de-8429-dd3548cb0ba6",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 1791,
+        "y": 768,
+        "width": 440,
+        "height": 90
+      },
+      "author": "llm",
+      "score": 0.93
+    }
+  ]
+}

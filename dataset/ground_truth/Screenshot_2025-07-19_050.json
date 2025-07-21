@@ -1,0 +1,24 @@
+{
+  "image": {
+    "id": "d7102829-cab3-4da0-845c-d57f97a9aa2f",
+    "name": "Screenshot_2025-07-19_050.png",
+    "path": "images/Screenshot_2025-07-19_050.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "manual-254cdda4-f06f-4557-b2df-85b8b91007c7",
+      "label": "Checkbox",
+      "value": "checkbox",
+      "bbox": {
+        "x": 498,
+        "y": 372,
+        "width": 243,
+        "height": 190
+      },
+      "author": "manual",
+      "score": 1.0
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "image": {
+    "id": "e443c8cf-92c2-43f8-80ae-e7cd1c8a2970",
+    "name": "Screenshot_2025-07-19_073.png",
+    "path": "images/Screenshot_2025-07-19_073.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "manual-e6b967d7-4fed-44a5-b5a3-6631741455e3",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 174,
+        "y": 408,
+        "width": 448,
+        "height": 142
+      },
+      "author": "manual",
+      "score": 1.0
+    }
+  ]
+}

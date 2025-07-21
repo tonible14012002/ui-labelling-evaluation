@@ -1,0 +1,63 @@
+{
+  "image": {
+    "id": "897cf6ee-3e3f-4698-a995-ded0ea73c924",
+    "name": "Screenshot_2025-07-19_057.png",
+    "path": "images/Screenshot_2025-07-19_057.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "manual-8cd87187-0065-4de8-b4a0-addc2d113e59",
+      "label": "Checkbox",
+      "value": "checkbox",
+      "bbox": {
+        "x": 593,
+        "y": 226,
+        "width": 180,
+        "height": 131
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-8b02dd9b-a3a8-4a09-a10a-4d41a45100d5",
+      "label": "Dropdown",
+      "value": "dropdown",
+      "bbox": {
+        "x": 738,
+        "y": 97,
+        "width": 305,
+        "height": 78
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-366fbbde-730a-4804-b483-4cd6a72def71",
+      "label": "Input",
+      "value": "input",
+      "bbox": {
+        "x": 1195,
+        "y": 912,
+        "width": 150,
+        "height": 219
+      },
+      "author": "manual",
+      "score": 1.0
+    },
+    {
+      "id": "manual-da26b036-c3f8-49e4-8bb8-24d798316b4e",
+      "label": "Radio",
+      "value": "radio",
+      "bbox": {
+        "x": 1327,
+        "y": 187,
+        "width": 251,
+        "height": 240
+      },
+      "author": "manual",
+      "score": 1.0
+    }
+  ]
+}

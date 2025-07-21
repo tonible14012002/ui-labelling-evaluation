@@ -1,0 +1,24 @@
+{
+  "image": {
+    "id": "cf3846b6-33db-4f43-a06c-0dc569ec1e6e",
+    "name": "Screenshot_2025-07-19_037.png",
+    "path": "images/Screenshot_2025-07-19_037.png",
+    "width": 1920,
+    "height": 1080
+  },
+  "annotations": [
+    {
+      "id": "llm-62e46f92-5584-42de-bc97-dc344dc5dfb8",
+      "label": "Button",
+      "value": "button",
+      "bbox": {
+        "x": 1491,
+        "y": 129,
+        "width": 478,
+        "height": 64
+      },
+      "author": "llm",
+      "score": 0.94
+    }
+  ]
+}
